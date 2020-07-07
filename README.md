@@ -11,10 +11,20 @@
 
 ## Installation 💡
 
-Open Terminal or Visual Basic or Git Bash and Run This Code:
+* Open Terminal or Visual Basic or Git Bash and Run This Code:
 
 ``` git pull https://github.com/AmineNeifer/testing_agario.git ```
 
-Now you have the project files on your local computer and you can go to the next step!
+* Now you have the project files on your local computer and you can go to the next step!
 
+## Usage 🔑
 
+* First you have to change the IP in the server.js file to either localhost or the IP of the server you are using
+
+* Open the location of the project files with Terminal and Run This Code:
+
+``` node server.js ```
+
+* Open any browser and insert the code that shows up such as this:
+
+``` Example app listening at http://localhost:3000 ```
