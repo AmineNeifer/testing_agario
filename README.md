@@ -41,7 +41,7 @@ The idea of our project was a game, but not just any game it was the clone of th
 
 * We are always welcoming contributors and we will be more than happy to let you contribute to this project just contact the project owner through email:
 
-[Yassin Bahri](mailto:1043@holbertonschool.com?subject=[GitHub]%20Agario%20The%20Tunisian%20Clone)
+         [Yassin Bahri](mailto:1043@holbertonschool.com?subject=[GitHub]%20Agario%20The%20Tunisian%20Clone)
 
 ## Related Projects 🔖
 
